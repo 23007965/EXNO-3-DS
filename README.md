@@ -230,6 +230,7 @@ plt.show()
 ```
 ![image](https://github.com/LATHIKESHWARAN/EXNO-3-DS/assets/119393556/789a3105-3ffe-43e9-bd6d-a1652ddcfef4)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+  Hence performing Feature Encoding and Transformation process is Successful.
 
        
