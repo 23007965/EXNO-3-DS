@@ -31,7 +31,7 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-      ```
+```
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder,OrdinalEncoder
 from sklearn.preprocessing import OneHotEncoder
